@@ -16,7 +16,7 @@ const Navigation = () => {
   }
 
   return (
-    <div className="sticky top-0 z-20 py-2 md:px-6 md:py-6 md:mb-6 dark:bg-black bg-white duration-300	">
+    <div className="sticky top-0 z-20 py-2 md:px-6 md:py-6 md:mb-6 dark:bg-black  duration-300	">
       <div className="container px-1 mx-auto flex items-center justify-between">
         <div className="items-start flex">
           <Link
